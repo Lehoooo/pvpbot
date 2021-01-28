@@ -1,8 +1,8 @@
 # pvpbot
 Modules Required
 
-mineflayer-pathfinder
-mineflayer
-mineflayer-pvp
-mineflayer-armor-manager
+
+# How to install 
+
+'npm install --save mineflayer-pathfinder mineflayer mineflayer-pvp mineflayer-armour-manager'
 
