@@ -13,3 +13,7 @@ fight - starts fighting the player
 stop - stop fighting
 
 ```
+
+# Other
+
+Remember to change the variables in `mineflayer.js`!
